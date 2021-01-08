@@ -28,3 +28,6 @@ set breakindent
 " fold
 autocmd BufWinLeave *.* mkview
 autocmd BufWinEnter *.* silent loadview
+
+" table
+let g:table_mode_corner='|'

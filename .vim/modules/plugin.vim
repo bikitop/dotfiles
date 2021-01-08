@@ -18,5 +18,7 @@ call plug#begin('~/.vim/autoload/plugged')
 	Plug 'morhetz/gruvbox'
 	" Vim-hexokinase
 	Plug 'rrethy/vim-hexokinase', { 'do': 'make hexokinase' }
+	" Tables
+	Plug 'dhruvasagar/vim-table-mode'
 
 call plug#end()

@@ -14,5 +14,7 @@ call plug#begin('~/.vim/autoload/plugged')
     Plug 'scrooloose/NERDTree'
     " Auto pairs for '(' '[' '{'
     Plug 'jiangmiao/auto-pairs'
+	" tables
+	Plug 'dhruvasagar/vim-table-mode'
 
 call plug#end()
