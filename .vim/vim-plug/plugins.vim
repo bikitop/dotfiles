@@ -16,5 +16,7 @@ call plug#begin('~/.vim/autoload/plugged')
     Plug 'jiangmiao/auto-pairs'
 	" tables
 	Plug 'dhruvasagar/vim-table-mode'
+	" Vim-colorschemes
+	Plug 'flazz/vim-colorschemes'
 
 call plug#end()
